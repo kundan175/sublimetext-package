@@ -1,0 +1,16 @@
+[
+    {
+        "caption": "LLM Chat",
+        "id": "llm_chat",
+        "children": [
+            {
+                "caption": "Ask LLM about this",
+                "command": "llm_chat"
+            },
+            {
+                "caption": "Explain this code",
+                "command": "llm_explain_code"
+            }
+        ]
+    }
+]

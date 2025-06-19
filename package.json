@@ -1,0 +1,15 @@
+{
+  "name": "sublime-llm-chat",
+  "version": "1.0.0",
+  "description": "LLM Chat integration for Sublime Text",
+  "main": "llm_chat.js",
+  "scripts": {
+    "test": "node llm_chat.js"
+  },
+  "keywords": ["sublime-text", "llm", "ai", "chat", "openai", "groq"],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

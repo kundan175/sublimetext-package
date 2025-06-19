@@ -1,0 +1,10 @@
+[
+    {
+        "keys": ["ctrl+shift+l"],
+        "command": "llm_chat"
+    },
+    {
+        "keys": ["ctrl+shift+e"],
+        "command": "llm_explain_code"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "T",
+        "id": "tools",
+        "children": [
+            {
+                "caption": "LLM Chat",
+                "id": "llm_chat",
+                "children": [
+                    {
+                        "caption": "Ask LLM",
+                        "command": "llm_chat"
+                    },
+                    {
+                        "caption": "Explain Selected Code",
+                        "command": "llm_explain_code"
+                    }
+                ]
+            }
+        ]
+    }
+]
